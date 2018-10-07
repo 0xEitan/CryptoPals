@@ -61,3 +61,4 @@ u8 * base64_encode(const u8 * buffer)
 
 	return encoded;
 }
+
